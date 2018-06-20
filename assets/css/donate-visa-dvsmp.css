@@ -1,0 +1,40 @@
+#container-form-donate-visa input{
+    color: #000;
+    background: #fff;
+    width: 100%;
+    padding: 0.7em;
+    display: block;
+    border: 1px solid #bbb;
+}
+
+#container-form-donate-visa label{
+    color: #333;
+    display: block;
+    font-weight: 800;
+    margin-bottom: 0.5em;
+}
+
+
+#container-form-donate-visa button{
+    padding: 0.75em 2em;
+    background-color: #222;
+    border: 0;
+    box-shadow: none;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 800;
+    text-shadow: none;
+    margin-top: 10px;
+}
+
+#container-form-donate-visa button:hover{
+    background: #767676;
+}
+
+#container-form-donate-visa button:disabled,
+#container-form-donate-visa button[disabled]{
+    border: 1px solid #999;
+    background-color: #ccc;
+    color: #666;
+}

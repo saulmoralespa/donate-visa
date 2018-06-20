@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Donate Visa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-20 16:01+0000\n"
+"PO-Revision-Date: 2018-06-20 16:07+0000\n"
+"Last-Translator: wpdev <cortuclas@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: donate-visa.php:51
+msgid "Donate Visa: Requires php version 5.6.0 or higher."
+msgstr "Donate Visa: Requiere la versión php 5.6.0 o superior."
+
+#: includes/class-donate-visa-dvsmp-plugin.php:76
+msgid "Donate visa can only be called once"
+msgstr "Donate visa solo se puede llamar una vez"
+
+#: includes/class-donate-visa-dvsmp-plugin.php:103
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: includes/class-donate-visa-dvsmp-plugin.php:125
+msgid "The api key is required"
+msgstr "La clave api es obligatoria"
+
+#: includes/class-donate-visa-dvsmp-plugin.php:126
+msgid "The payment has been successful"
+msgstr "El pago ha sido exitoso"
+
+#: includes/class-donate-visa-dvsmp-plugin.php:127
+msgid "You have canceled the payment"
+msgstr "Has cancelado el pago"
+
+#: includes/class-donate-visa-dvsmp-plugin.php:128
+msgid "Error when making the payment, please try again"
+msgstr "Error al hacer el pago, intente de nuevo"
+
+#: includes/class-donate-visa-dvsmp-shortcode.php:25
+#: includes/class-donate-visa-dvsmp-shortcode.php:34
+msgid "Donate your support"
+msgstr "Done su apoyo"
+
+#: includes/class-donate-visa-dvsmp-shortcode.php:26
+msgid "Amount"
+msgstr "Cantidad"
+
+#: includes/class-donate-visa-dvsmp-shortcode.php:28
+msgid "Name and last name"
+msgstr "Nombre y apellido"
+
+#: includes/class-donate-visa-dvsmp-shortcode.php:30
+msgid "Company Name"
+msgstr "Nombre de empresa"
+
+#: includes/class-donate-visa-dvsmp-shortcode.php:32
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: includes/class-donate-visa-dvsmp-shortcode.php:39
+msgid "Tell Me More"
+msgstr "Dime más"
+
+#: includes/class-donate-visa-dvsmp-admin.php:23
+msgid "Configuration"
+msgstr "Configuración"
+
+#: includes/class-donate-visa-dvsmp-admin.php:24
+msgid "Donations"
+msgstr "Donaciones"
+
+#: includes/class-donate-visa-dvsmp-admin.php:41
+msgid "Environment"
+msgstr "Ambiente"
+
+#: includes/class-donate-visa-dvsmp-admin.php:44
+msgid "Sandbox"
+msgstr "Pruebas"
+
+#: includes/class-donate-visa-dvsmp-admin.php:45
+msgid "Live"
+msgstr "Producción"
+
+#: includes/class-donate-visa-dvsmp-admin.php:50
+#: includes/class-donate-visa-dvsmp-admin.php:105
+msgid "Currency"
+msgstr "Moneda"
+
+#: includes/class-donate-visa-dvsmp-admin.php:53
+msgid "Argentine peso"
+msgstr "Peso argentino"
+
+#: includes/class-donate-visa-dvsmp-admin.php:54
+msgid "Australian dollar"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:55
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:56
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:57
+msgid "Chinese Yuan"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:58
+msgid "Chilean peso"
+msgstr "Peso chileno"
+
+#: includes/class-donate-visa-dvsmp-admin.php:59
+msgid "Colombian peso"
+msgstr "Peso Colombiano"
+
+#: includes/class-donate-visa-dvsmp-admin.php:60
+msgid "French franc"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:61
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:62
+msgid "Indian Rupee"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:63
+msgid "Ireland euro"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:64
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:65
+msgid "Mexican peso"
+msgstr "Peso Mexicano"
+
+#: includes/class-donate-visa-dvsmp-admin.php:70
+msgid "Apikey"
+msgstr ""
+
+#: includes/class-donate-visa-dvsmp-admin.php:93
+msgid "No donations made to show"
+msgstr "No se han realizado donaciones para mostrar"
+
+#: includes/class-donate-visa-dvsmp-admin.php:101
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/class-donate-visa-dvsmp-admin.php:102
+msgid "Company"
+msgstr "Empresa"
+
+#: includes/class-donate-visa-dvsmp-admin.php:103
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/class-donate-visa-dvsmp-admin.php:104
+msgid "Price"
+msgstr "Precio"
+
+#. Name of the plugin
+msgid "Donate Visa"
+msgstr ""
+
+#. Description of the plugin
+msgid "Donation form with Visa payment method."
+msgstr ""
+
+#. Author of the plugin
+msgid "Saul Morales Pacheco"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://saulmoralespa.com"
+msgstr ""
